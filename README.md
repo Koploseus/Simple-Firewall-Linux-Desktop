@@ -14,7 +14,7 @@ Simple Linux Firewall for desktop, more feature in comming !
 
 
 #TODO : 
-	-Alert Brute Force SSH,
-	-Notification if open port,
-	-Notification if service needs to open a port,
-	-GUI Interface
+>Alert Brute Force SSH,
+>Notification if open port,
+>Notification if service needs to open a port,
+>GUI Interface
