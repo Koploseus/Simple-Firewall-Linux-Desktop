@@ -1,8 +1,8 @@
 # Simple-Firewall-Linux-Desktop
 Simple Linux Firewall for desktop, more feature in comming !
 
--Flush IPTABLES
--Allow DNS
+	-Flush IPTABLES
+	-Allow DNS
 -Allow SSH OUTPUT
 -Allow loopback
 -Allow IRC Channel
