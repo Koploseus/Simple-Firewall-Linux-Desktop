@@ -123,8 +123,8 @@ case "$1" in
     start)
         printf "\nFirewall up [OK].\n"
         set_stateful_firewall
-	      printf "\nFirewall Block Port Scan [OK]\n"
-	      add_portscanner_rules
+	printf "\nFirewall Block Port Scan [OK]\n"
+	add_portscanner_rules
         ;;
     *)
         echo "unrecognized command" ;;
